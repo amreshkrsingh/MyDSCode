@@ -6,6 +6,6 @@ public class ImportantCncept {
   }
 
   public void sumnum(int a, int b) {
-    System.out.println(a+b);
+    System.out.println("The sum is " + a+b);
   }
 }
