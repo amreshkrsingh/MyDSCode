@@ -4,7 +4,6 @@ public class ImportantCncept {
     Long[] userArray = zpuidSet.stream().map(Long::valueOf).toArray(Long[]::new);
     System.out.println("This is the result "+userArray);
 
-    sumnum(5+9);
     sumnum(5+12322);
   }
 
