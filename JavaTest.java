@@ -5,6 +5,7 @@ public class ImportantCncept {
     System.out.println("This is the result "+userArray);
 
     sumnum(5+9);
+    sumnum(5+12322);
   }
 
   public void sumnum(int a, int b) {
