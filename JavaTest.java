@@ -1,4 +1,4 @@
-public class ImportantCncept {
+public class JavaTest {
   public static void main(String[] args) {
     Set<String> zpuidSet = new HashSet<>(Arrays.asList("34567654", "5467655342", "2435653"));
     Long[] userArray = zpuidSet.stream().map(Long::valueOf).toArray(Long[]::new);
