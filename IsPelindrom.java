@@ -1,6 +1,4 @@
 //$Id$
-package com.amresh;
-
 public class IsPelindrom {
 
 	public static void main(String[] args) {
