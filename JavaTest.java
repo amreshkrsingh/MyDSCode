@@ -10,6 +10,7 @@ public class JavaTest {
     sumnum(5, 122);
 
     System.out.println("Hi to Github using git");
+    System.out.println("2. Hi to Github using git");
   }
 
   public static void sumnum(int a, int b) {
