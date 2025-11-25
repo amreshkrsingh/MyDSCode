@@ -8,6 +8,8 @@ public class JavaTest {
     Long[] userArray = zpuidSet.stream().map(Long::valueOf).toArray(Long[]::new);
     System.out.println("This is the result "+userArray);
     sumnum(5, 122);
+
+    System.out.println("Hi to Github using git");
   }
 
   public static void sumnum(int a, int b) {
